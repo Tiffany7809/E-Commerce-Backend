@@ -36,13 +36,20 @@
   ***
 
   <h2 id="install">Installation</h2>
-  1) clone the repository
-  2) run npm i 
-  3) open mysql in the db folder
-  4) run source schema.sql
-  5) exit mysql
-  6) navigate to the root folder and run npm run seed
-  7) run npm start
+
+  1. clone the repository
+
+  2. run npm i 
+
+  3. open mysql in the db folder
+
+  4. run source schema.sql
+
+  5. exit mysql
+
+  6. navigate to the root folder and run npm run seed
+  
+  7. run npm start
   ***
 
   <h2 id="use">Usage</h2>
