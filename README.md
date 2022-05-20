@@ -25,13 +25,9 @@
 
   This is an express application run from the terminal that is connected to a database to maintain and keep track of the backend of an E-commerce site.
 
-  To the E-Commerce sites backend easy and convienent to manipulate. 
+  The goal was to make the E-Commerce sites backend easy and convienent to manipulate. 
 
-  .
-
-  Through this application I learned how to use MySQL, Express and dotenv. I became more comfertable manipulating tables and columns in a database. .
-
-  .
+  Through this application I learned how to use MySQL, Express and dotenv. I became more comfertable manipulating tables and columns in a database. 
 
   In the future I would like to connect the backend application to a front end user facing application..
 
