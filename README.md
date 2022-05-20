@@ -40,13 +40,27 @@
   ***
 
   <h2 id="install">Installation</h2>
-
-  
+  1) clone the repository
+  2) run npm i 
+  3) open mysql in the db folder
+  4) run source schema.sql
+  5) exit mysql
+  6) navigate to the root folder and run npm run seed
+  7) run npm start
   ***
 
   <h2 id="use">Usage</h2>
+Link to set up Video:
+https://youtu.be/DwJI4F28NQ4
 
-<iframe src="https://drive.google.com/file/d/1rRHNJ3cB-xzaZQgxmqde4_ViD_zT2OtV/preview" width="640" height="480"></iframe>
+Link to Category Routes Video:
+https://youtu.be/l8j5KN4-bUk
+
+Link to Product Routes Video:
+https://youtu.be/bHIZq83SVsU
+
+Link to Tag Routes Video:
+https://youtu.be/4dYSq4G8Y7Y
 
   ***
       
